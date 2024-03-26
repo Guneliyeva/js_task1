@@ -20,7 +20,7 @@ console.log(word.indexOf(symbol));
 
 
 // 6.İstifadəçinin daxil etdiyi sözün böyük hərf olub olmadığını tapın.
-if (word.toUpperCase() == wordCeyran) {
+if (word.toUpperCase() == word) {
   console.log("True");
 } 
 else {
